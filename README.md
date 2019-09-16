@@ -8,7 +8,7 @@
 
 කරුණාකර පහත සන්දහන් විධානයන් ක්‍රියාත්මක කරන්න. ඔබට පරික්ශා කිරීම  සඳහා අප විසින් ඔබට app.js සාම්පලයක් සපයා ඈත. npm start විධානය මගින් ඔබට එම සාම්පලය ක්‍රියාත්මක කල හෑක.
  
-    git clone https://github.com/99xt/express-sinhala-wrapper.git
+    git clone https://github.com/99xt/sinhala-express-js.git
     npm install
     npm start
 
