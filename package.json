@@ -1,0 +1,15 @@
+{
+  "name": "sinhalaexpress",
+  "version": "1.0.0",
+  "description": "Sinhala Language Wrapper for Experess.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+  },
+  "author": "99X Technology (Pvt) Ltd.",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
